@@ -1,0 +1,3 @@
+rootProject.name = 'I2DD'
+
+include ':app'
